@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62209676/201926548-78338025-02dd-4bed-9831-1e5084e6e7a2.png" alt="Some troubles with image :D">
+<img src="header.png" alt="Some troubles with image :D">
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm computer science student;19 years old, Ukraine;CSharp .NET;JavaScript, NodeJS&font=Fira%20Code&left=true&width=380&height=50&duration=4000&pause=1000">
 </p>
