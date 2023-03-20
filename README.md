@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm computer science student;19 years old, Ukraine;JavaScript, NodeJS&font=Consolas%20Code&left=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-## My website: https://jadegnew.herokuapp.com
-
 ## 🖐 About me
 - 🚩 Khabatilin Dmytro Olegovich
 - 🚩 19 y.o.
